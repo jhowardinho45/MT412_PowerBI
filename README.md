@@ -21,15 +21,15 @@ The Power BI report (`MT412_PowerBi_Group3.pbix`) offers insights into Blackbird
 - Visualisations that highlight trends, patterns, and outliers in the data.
 - Q&A tools to get information short and quickly.
 
-### Prerequisites
+### What's needed to run this file?
 
 - Microsoft Power BI Desktop (latest version recommended)
 
-### Installation
+### How to Access for Yourself?
 
 1. Download the latest version of Power BI Desktop from the [official site](https://powerbi.microsoft.com/en-us/desktop/).
 2. Clone this repository or download the `.pbix` file directly.
-3. Open Power BI Desktop, and navigate to `File` > `Import` > `Power BI template` to import the `.pbip` file.
+3. Open Power BI Desktop, and navigate to `File` > `Open` and then select the file.
 
 ## Using the Report
 
