@@ -1,10 +1,12 @@
+# MT412_PowerBI
+
 # Blackbird Analytics with Power BI
 
 This repository hosts a Power BI project designed to provide a comprehensive overview of Blackbird, a US-based wholesaler. This Power BI file is intended to provide information and guidance for the managers of Blackbird. This project leverages Power BI to visualise and analyse data related to **Orders Data**, **Sales and Product Analysis**, **Geographical Insights**, and **Operational Insights**.
 
 ## Project Overview
 
-The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into Blackbird's sale data from 2014 - 2017. It's designed to help stakeholders make informed decisions by providing a clear view of some **key insights** of the business.
+The Power BI report (`MT412_PowerBi_Group3.pbix`) offers insights into Blackbird's sale data from 2014 - 2017. It's designed to help stakeholders make informed decisions by providing a clear view of some **key insights** of the business.
 
 ### Key Insights
 
@@ -26,7 +28,7 @@ The Power BI report (`MT412_PowerBi_Group3.pbip`) offers insights into Blackbird
 ### Installation
 
 1. Download the latest version of Power BI Desktop from the [official site](https://powerbi.microsoft.com/en-us/desktop/).
-2. Clone this repository or download the `.pbip` file directly.
+2. Clone this repository or download the `.pbix` file directly.
 3. Open Power BI Desktop, and navigate to `File` > `Import` > `Power BI template` to import the `.pbip` file.
 
 ## Using the Report
